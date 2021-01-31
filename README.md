@@ -1,6 +1,7 @@
 # Multi Garage App
 
 - Two applications that sharing the same logic, but written only once.
+
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/GalShashua/VideoOpenerLibrary"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/GalShashua?style=social">
 
 ## Tecnologies
