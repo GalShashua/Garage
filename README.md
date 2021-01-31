@@ -4,6 +4,8 @@
 
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/GalShashua/VideoOpenerLibrary"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/GalShashua?style=social">
 
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
 ## Tecnologies
 
 <img width="80" alt="room" src="https://user-images.githubusercontent.com/56959832/106396624-c65ae780-6411-11eb-9a31-4969f33d26c9.png"><img width="80" alt="1_Ht6PyyFTAqDZYNS60IkUOw" src="https://user-images.githubusercontent.com/56959832/106396650-015d1b00-6412-11eb-8caf-bc20aa81e70e.png">
@@ -12,7 +14,6 @@ Retrofit is a REST Client for Java and Android. It makes it relatively easy to r
 
 Room is a persistence library, part of the Android Architecture Components. It makes it easier to work with SQLiteDatabase objects in your app, decreasing the amount of boilerplate code and verifying SQL queries at compile time.
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 ## Implementation
 Using with Retrofit to GET Json file from API (with @GET annotation).
