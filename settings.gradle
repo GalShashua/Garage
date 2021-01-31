@@ -1,0 +1,4 @@
+include ':mygarage'
+include ':common'
+include ':clients'
+rootProject.name = "GalGarageApp"

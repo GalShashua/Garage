@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cars_LAYOUT_main"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/app_LBL_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:text="hi"
+        android:textColor="#FFFFFF"
+        android:fontFamily="casual"/>
+
+    <TextView
+        android:id="@+id/duration_LBL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:textSize="20sp"
+        android:text="hi"
+        android:textColor="#FFFFFF"
+        android:fontFamily="casual"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal"
+        android:background="#C4000000">
+
+    <TextView
+        android:id="@+id/garage_name_LBL_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:text="hi"
+        android:textColor="#FFFFFF"
+        android:fontFamily="casual"/>
+
+    <TextView
+        android:id="@+id/garage_address_LBL_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:textSize="27sp"
+        android:text="hi"
+        android:textColor="#FFFFFF"
+        android:fontFamily="casual"/>
+
+    <TextView
+        android:id="@+id/garage_open_LBL_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:textSize="27sp"
+        android:text="hi"
+        android:textColor="#FFDF3B"
+        android:fontFamily="casual"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:fontFamily="casual"
+                android:text="our cars "
+                android:textColor="#e95353"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+
+                android:src="@drawable/car"/>
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="150dp">
+
+            <TextView
+                android:id="@+id/garage_cars_LBL_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textSize="25sp"
+                android:text="hi"
+                android:textColor="#D6D6D6"
+                android:fontFamily="casual"/>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>
