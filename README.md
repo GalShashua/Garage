@@ -3,6 +3,8 @@
 - Two applications that sharing the same logic, but written only once.
 
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/GalShashua/VideoOpenerLibrary"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/GalShashua?style=social">
+AppVeyor branch badge
+
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
