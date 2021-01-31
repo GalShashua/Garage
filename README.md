@@ -2,10 +2,8 @@
 
 - Two applications that sharing the same logic, but written only once.
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/GalShashua/VideoOpenerLibrary"> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/GalShashua?style=social">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/GalShashua/VideoOpenerLibrary">  <img alt="GitHub followers" src="https://img.shields.io/github/followers/GalShashua?style=social">
 [![API](https://img.shields.io/badge/API-18%2B-green.svg?style=flat)]()
-![GitHub](https://img.shields.io/github/license/GalShashua/Garage)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Smart%20Rate%20Us%20Dialog-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7577)
 
 ## Tecnologies
