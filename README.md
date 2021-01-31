@@ -16,8 +16,6 @@ Room is a persistence library, part of the Android Architecture Components. It m
 Using with Retrofit to GET Json file from API (with @GET annotation).
 Using with Room to save the whole usage time for each app in seconds.
 
-                
-----
 
 ## Images
 
@@ -32,6 +30,3 @@ Garage App:
 Both:
 
 <img width="223" alt="Screenshot_1612123060" src="https://user-images.githubusercontent.com/56959832/106396744-8b0ce880-6412-11eb-93d2-0713aca07498.png">
-                
-----
-
