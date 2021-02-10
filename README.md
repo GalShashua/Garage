@@ -34,3 +34,22 @@ Garage App:
 Both:
 
 <img width="223" alt="Screenshot_1612123060" src="https://user-images.githubusercontent.com/56959832/106396744-8b0ce880-6412-11eb-93d2-0713aca07498.png">
+
+
+## License
+```	
+
+    Copyright 2020 Gal Shashua
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+    ``` 
