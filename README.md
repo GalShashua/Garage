@@ -2,7 +2,7 @@
 
 - Two applications that sharing the same logic, but written only once.
 
-[![API](https://img.shields.io/badge/API-18%2B-green.svg?style=flat)]()[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Smart%20Rate%20Us%20Dialog-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7577)
+[![API](https://img.shields.io/badge/API-18%2B-green.svg?style=flat)]() [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Smart%20Rate%20Us%20Dialog-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7577)
 <img alt="Snyk Vulnerabilities for GitHub Repo" src="https://img.shields.io/snyk/vulnerabilities/github/GalShashua/Garage">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/GalShashua/Garage">
 <img alt="Depfu" src="https://img.shields.io/depfu/GalShashua/Garage"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/GalShashua?style=social"> 
